@@ -1,95 +1,106 @@
-# $NANCAT - Website Resmi Banana Cat Coin
+# $NANCAT - The Official Banana Cat Coin Website
 
 ![NANCAT Banner](https://via.placeholder.com/1200x600.png?text=Welcome+to+%24NANCAT)
 
-**Selamat datang di repositori resmi untuk website $NANCAT, koin meme paling menggemaskan di blockchain! 🍌😺**
+**Welcome to the official repository for the $NANCAT website—the most adorable meme coin on the blockchain! 🍌😺**
 
 <p align="center">
-  <a href="https://your-nancat-website.com"><strong>Lihat Website »</strong></a>
-  ·
-  <a href="#">Laporkan Bug</a>
-  ·
-  <a href="#">Minta Fitur Baru</a>
+  <a href="https://web-nancat.netlify.app" target="_blank"><strong>🌐 View Live Website »</strong></a>
+  &middot;
+  <a href="#">🐞 Report a Bug</a>
+  &middot;
+  <a href="#">✨ Request a Feature</a>
 </p>
 
 ---
 
-## 📖 Tentang Proyek
+## 🚀 About The Project
 
-Website ini adalah pusat komunitas dan sumber informasi utama untuk $NANCAT. Dibuat dengan semangat komunitas dan kecintaan pada meme Banana Cat, tujuan kami adalah menyediakan platform yang transparan, menyenangkan, dan mudah diakses bagi para investor dan penggemar.
+This website serves as the **core information hub** and community center for $NANCAT. Engineered with a focus on **speed, transparency, and engaging user experience**, our mission is to provide an accessible and fun platform for all investors and enthusiasts of the Banana Cat meme.
 
-Di sini, Anda akan menemukan semua yang perlu Anda ketahui tentang $NANCAT, mulai dari cara membeli, tokenomics, hingga roadmap masa depan kami.
+Leveraging modern web development practices, we ensure a blazing-fast, server-rendered experience. Here, you'll find everything you need: from **tokenomics** and the official **roadmap** to easy-to-follow **"How to Buy"** guides.
 
-### ✨ Fitur Utama Website
+### 🌟 Key Website Features
 
-* **Informasi Jelas:** Penjelasan lengkap tentang apa itu $NANCAT.
-* **Tokenomics:** Distribusi token yang transparan dan adil.
-* **Roadmap:** Visi dan rencana jangka panjang untuk pengembangan proyek.
-* **Panduan "How to Buy":** Langkah-langkah mudah untuk mendapatkan $NANCAT pertama Anda.
-* **Tautan Komunitas:** Terhubung dengan kami di Telegram, X (Twitter), dan platform lainnya.
-* **Desain Responsif:** Tampilan optimal di semua perangkat, baik desktop maupun mobile.
-
----
-
-## 🛠️ Dibangun Dengan
-
-Proyek ini dibangun menggunakan teknologi web modern untuk memastikan performa yang cepat dan pengalaman pengguna yang lancar.
-
-* **HTML5**
-* **CSS3** Mungkin dengan Bootstrap/Tailwind CSS
-* **JavaScript**
+* **Crystal Clear Info:** Comprehensive explanation of the $NANCAT vision and value.
+* **Transparent Tokenomics:** Detailed, fair, and open token distribution breakdown.
+* **Future-Proof Roadmap:** Our long-term vision and development plans.
+* **Seamless How-to-Buy Guide:** Simple, step-by-step instructions for acquiring your first $NANCAT.
+* **Community Integration:** Direct links to our social channels (Telegram, X/Twitter, etc.).
+* **Elite Performance:** Optimized for a flawless experience on desktop and mobile devices.
 
 ---
 
-## 🚀 Memulai (Untuk Developer)
+## 🛠️ Tech Stack & Architecture
 
-Jika Anda ingin berkontribusi atau menjalankan proyek ini secara lokal, ikuti langkah-langkah sederhana berikut.
+This project is built using a powerful, modern **Next.js** framework, ensuring a high-performance, SEO-friendly, and scalable application.
 
-### Prasyarat
+* **Next.js:** The React framework for production, enabling server-side rendering (SSR) or static site generation (SSG) for superior speed.
+* **React:** For building dynamic and reactive user interfaces.
+* **Tailwind CSS / Styled Components:** *\[Pilih salah satu atau hapus]*
 
-Pastikan Anda memiliki Git terinstall di sistem Anda.
+---
 
-### Instalasi
+## 💻 Getting Started (For Developers)
 
-1.  Clone repositori ini ke mesin lokal Anda:
+To get a local copy up and running, follow these simple steps.
+
+### Prerequisites
+
+Ensure you have **Node.js** (version 18+) and **npm** or **Yarn** installed on your system.
+
+### Installation & Local Setup
+
+1.  Clone the repository:
     ```sh
     git clone [https://github.com/Nancat-code/Nancat.git](https://github.com/Nancat-code/Nancat.git)
     ```
-2.  Masuk ke direktori proyek:
+2.  Navigate into the project directory:
     ```sh
     cd Nancat
     ```
-3.  Buka file `index.html` di browser favorit Anda untuk melihat website secara lokal.
+3.  Install the required dependencies:
+    ```sh
+    npm install
+    # or
+    yarn install
+    ```
+4.  Start the development server:
+    ```sh
+    npm run dev
+    # or
+    yarn dev
+    ```
+5.  Open your browser and visit: `http://localhost:3000`
 
 ---
 
-## 🤝 Berkontribusi
+## 🤝 Contributing
 
-Kontribusi adalah detak jantung dari komunitas open source. Setiap kontribusi yang Anda buat akan sangat kami hargai.
+**Contributions are the fuel of the open-source community!** Any contributions you make are **greatly appreciated** and help make $NANCAT even better.
 
-Jika Anda memiliki saran untuk membuat proyek ini lebih baik, silakan *fork* repositori ini dan buat *pull request*. Anda juga bisa membuka *issue* dengan tag "enhancement".
+If you have a suggestion that would improve this project, please **fork the repo** and create a **Pull Request**. You can also simply open an issue with the tag "enhancement".
 
-Jangan lupa untuk memberi bintang pada proyek ini! Terima kasih!
+Don't forget to give the project a star! Thanks!
 
-1.  Fork Proyek
-2.  Buat Branch Fitur Anda (`git checkout -b fitur/FiturLuarBiasa`)
-3.  Commit Perubahan Anda (`git commit -m 'Menambahkan FiturLuarBiasa'`)
-4.  Push ke Branch (`git push origin fitur/FiturLuarBiasa`)
-5.  Buka sebuah Pull Request
-
----
-
-## 📄 Lisensi
-
-Didistribusikan di bawah Lisensi MIT. Lihat `LICENSE.txt` untuk informasi lebih lanjut.
+1.  Fork the Project
+2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3.  Commit your Changes (`git commit -m 'feat: Add some AmazingFeature'`)
+4.  Push to the Branch (`git push origin feature/AmazingFeature`)
+5.  Open a Pull Request
 
 ---
 
-## 📧 Kontak
+## 📄 License
 
-**Created by:** [@amfuzi-code](https://github.com/amfuzi-code)
+Distributed under the **MIT License**. See `LICENSE.txt` for more information.
 
-Email Proyek: vuzinet@gmail.com
+---
 
-Tautan Proyek: [https://github.com/Nancat-code/Nancat](https://github.com/Nancat-code/Nancat)
+## 📧 Contact & Links
 
+**Project Creator:** [@amfuzi-code](https://github.com/amfuzi-code)
+
+Project Email: vuzinet@gmail.com
+
+Project Link: [https://github.com/Nancat-code/Nancat](https://github.com/Nancat-code/Nancat)
