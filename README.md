@@ -1,7 +1,7 @@
 # $NANCAT - The Official Banana Cat Coin Website
 
 <p align="center">
-  <img src="images/nancat.jpg" alt="NANCAT Banner" width="150" />
+  <img src="images/nancat.jpg" alt="NANCAT Banner" width="160" />
 </p>
 
 **Welcome to the official repository for the $NANCAT website—the most adorable meme coin on the blockchain! 🍌😺**
@@ -9,9 +9,6 @@
 <p align="center">
   <a href="https://web-nancat.netlify.app" target="_blank"><strong>🌐 View Live Website »</strong></a>
   &middot;
-  <a href="#">🐞 Report a Bug</a>
-  &middot;
-  <a href="#">✨ Request a Feature</a>
 </p>
 
 ---
@@ -39,41 +36,20 @@ This project is built using a powerful, modern **Next.js** framework, ensuring a
 
 * **Next.js:** The React framework for production, enabling server-side rendering (SSR) or static site generation (SSG) for superior speed.
 * **React:** For building dynamic and reactive user interfaces.
-* **Tailwind CSS / Styled Components:** *\[Pilih salah satu atau hapus]*
+* **Tailwind CSS / Styled Components:**
 
 ---
 
-## 💻 Getting Started (For Developers)
+## 💎 The $NANCAT Utility
 
-To get a local copy up and running, follow these simple steps.
+While $NANCAT is born from the vibrant meme culture, our long-term vision includes embedding genuine utility to reward our dedicated community and ensure longevity.
 
-### Prerequisites
+### Current & Planned Utility
 
-Ensure you have **Node.js** (version 18+) and **npm** or **Yarn** installed on your system.
-
-### Installation & Local Setup
-
-1.  Clone the repository:
-    ```sh
-    git clone [https://github.com/Nancat-code/Nancat.git](https://github.com/Nancat-code/Nancat.git)
-    ```
-2.  Navigate into the project directory:
-    ```sh
-    cd Nancat
-    ```
-3.  Install the required dependencies:
-    ```sh
-    npm install
-    # or
-    yarn install
-    ```
-4.  Start the development server:
-    ```sh
-    npm run dev
-    # or
-    yarn dev
-    ```
-5.  Open your browser and visit: `http://localhost:3000`
+* **Exclusive Content Access:** $NANCAT holders gain early or exclusive access to community polls, announcements, and limited-edition digital assets (NFTs).
+* **Community Governance (Future):** We envision transitioning to a **Decentralized Autonomous Organization (DAO)** structure, allowing token holders to vote on key development decisions, treasury usage, and future roadmap items.
+* **Meme-Fi Integrations:** Partnerships with ecosystem projects to enable staking, farming, or gamified experiences using $NANCAT.
+* **Merchandise & Rewards:** Token holders receive discounts or exclusive rights to official $NANCAT merchandise and community-driven rewards programs.
 
 ---
 
