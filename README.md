@@ -1,6 +1,8 @@
 # $NANCAT - The Official Banana Cat Coin Website
 
-![NANCAT Banner](https://via.placeholder.com/1200x600.png?text=Welcome+to+%24NANCAT)
+<p align="center">
+  <img src="images/nancat.jpg" alt="NANCAT Banner" width="150" />
+</p>
 
 **Welcome to the official repository for the $NANCAT website—the most adorable meme coin on the blockchain! 🍌😺**
 
